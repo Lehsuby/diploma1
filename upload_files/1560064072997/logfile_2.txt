@@ -1,0 +1,9 @@
+Serving HTTP on 0.0.0.0 port 8000 ...
+[0mDataLoaderRaw loading images from folder: [0m	[0m/data/images[0m	
+[0mlisting all images in directory /data/images[0m	
+[0mDataLoaderRaw found 1 images[0m	
+[0mconstructing clones inside the LanguageModel[0m	
+[0mcp "/data/images/0.png" vis/imgs/img1.jpg[0m	
+[0mimage 1: a stop sign with a sign on it[0m	
+[0mevaluating performance... 0/-1 (0.000000)[0m	
+[0mloss: [0m	[0;36mnan[0m	
